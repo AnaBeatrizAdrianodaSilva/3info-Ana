@@ -12,7 +12,7 @@ export default function HomeSrc({ navigation }) {
 
       <Text style={{
         fontSize: 20,
-      }}> Navegue pelas páginas de busca: </Text>
+      }}> Procure pelo o que você deseja</Text>
     </View>
   )
 }

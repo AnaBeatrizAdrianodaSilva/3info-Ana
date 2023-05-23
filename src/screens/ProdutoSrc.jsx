@@ -44,7 +44,7 @@ export default function ProdutoSrc() {
       }}>Produto</Text>
 
       <TextInput
-        label="Nome da Fruta"
+        label="Nome do Produto"
         value={nomeProduto}
         onChangeText={setNomeProduto}
         style={{
